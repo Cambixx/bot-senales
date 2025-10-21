@@ -1,0 +1,36 @@
+# Archivos de configuración con secretos
+config.py
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Trading
+*.csv
+data/
+backups/
